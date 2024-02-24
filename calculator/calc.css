@@ -1,0 +1,32 @@
+body {
+    width: 168px;
+}
+.main {
+    background-color: #575555;
+    color: #575555;
+    border: 2px solid black;
+    width: 168px;
+}
+
+.dot {
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background-color: yellow;
+	display: inline-block;
+}
+
+input {
+    width: 168px;
+    background-color: #575555;
+    border: 0;
+    box-shadow: none;
+    -moz-appearance: textfield;
+}
+.calc_button {
+    width: 42px;
+}
+
+.calc_button0 {
+	width: 84px;
+}
